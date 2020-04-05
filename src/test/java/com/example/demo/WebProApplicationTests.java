@@ -13,4 +13,8 @@ public class WebProApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void test1() {
+	}
+
 }
